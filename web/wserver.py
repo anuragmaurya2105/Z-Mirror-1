@@ -774,7 +774,7 @@ def set_priority(id_):
 
 @app.route('/')
 def homepage():
-    return "<h1>See Z-Mirror <a href='https://github.com/Dawn-India/Z-Mirror'>@GitHub</a> By <a href='tg://resolve?domain=z_mirror'>Dawn_In</a></h1>"
+    return "<h1>See Tanjirou <a href='https://chat.whatsapp.com/Hd8ggVfOUy68yqt2y1rikv'>@Whatsapp</a> By <a href='tg://resolve?domain=z_mirror'>Tanjirou</a></h1>"
 
 @app.errorhandler(Exception)
 def page_not_found(e):
